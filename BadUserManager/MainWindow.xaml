@@ -1,0 +1,16 @@
+
+<Window x:Class="BadUserManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bad User Manager" Height="350" Width="500">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock>Name:</TextBlock>
+            <TextBox x:Name="txtName" Margin="0,0,0,5" />
+            <TextBlock>E-mail:</TextBlock>
+            <TextBox x:Name="txtEmail" Margin="0,0,0,5" />
+            <Button Content="Add User" Click="Add_Click" Margin="0,0,0,10"/>
+            <ListBox x:Name="lstUsers"/>
+        </StackPanel>
+    </Grid>
+</Window>

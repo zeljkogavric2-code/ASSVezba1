@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadUserManager", "BadUserManager.csproj", "{B84048DA-ECC1-4953-87EB-00960B57DAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeLayeredInvoiceApp", "..\FakeLayeredInvoiceApp\FakeLayeredInvoiceApp.csproj", "{793BF333-D444-4954-A9C8-03D1BFBE1F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodClassOrderApp", "..\GodClassOrderApp\GodClassOrderApp.csproj", "{D1C1F05F-4D7C-4507-BEDB-93C005D60D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84048DA-ECC1-4953-87EB-00960B57DAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84048DA-ECC1-4953-87EB-00960B57DAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84048DA-ECC1-4953-87EB-00960B57DAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84048DA-ECC1-4953-87EB-00960B57DAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793BF333-D444-4954-A9C8-03D1BFBE1F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793BF333-D444-4954-A9C8-03D1BFBE1F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793BF333-D444-4954-A9C8-03D1BFBE1F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793BF333-D444-4954-A9C8-03D1BFBE1F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C1F05F-4D7C-4507-BEDB-93C005D60D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C1F05F-4D7C-4507-BEDB-93C005D60D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C1F05F-4D7C-4507-BEDB-93C005D60D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C1F05F-4D7C-4507-BEDB-93C005D60D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
